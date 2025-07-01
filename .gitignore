@@ -1,0 +1,6 @@
+# Ignore config YAML files
+config/db_config.yaml
+config/db_config1.yaml
+
+# Ignore virtual environments
+venv2/
