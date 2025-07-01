@@ -3,10 +3,10 @@ mongo_etl_project/config/db_config.yaml
 mongo_etl_project/config/db_config1.yaml
 
 # Ignore virtual environments
-venv/
+#venv/
 venv2/
-.env/
-.venv/
+#.env/
+#.venv/
 
 # Ignore output folders
 output/
