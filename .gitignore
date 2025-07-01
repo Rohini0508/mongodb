@@ -4,3 +4,6 @@ config/db_config1.yaml
 
 # Ignore virtual environments
 venv2/
+
+# Ignore virtual environments
+output/
