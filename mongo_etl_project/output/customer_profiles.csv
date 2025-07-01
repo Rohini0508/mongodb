@@ -1,0 +1,11 @@
+client,domain,location,technologies,total_projects
+ABC Bank,Banking,London,"AWS, MongoDB, Node.js, React",1
+Global Manufacturing Ltd,Manufacturing,Germany,"ABAP, BTP, SAP S/4HANA",1
+TrendyFashions,Retail,New York,"Angular, Oracle DB, Spring Boot",1
+SmartHome Inc.,IoT,San Francisco,"AWS IoT, MQTT, Python, Raspberry Pi",1
+SecurePay,Finance,Singapore,"Kali Linux, Splunk, Wireshark",1
+SureLife Insurance,Insurance,Sydney,"Dialogflow, Flask, OpenAI API, Python",1
+RetailMart,Retail,Toronto,"Azure Data Lake, Databricks, PySpark",1
+OldSoft Solutions,Technology,Chennai,"Docker, Java, Kubernetes, PostgreSQL",1
+EcoInfra,Infrastructure,Dubai,"AWS Cost Explorer, Ansible, Terraform",1
+HCL Internal,HR Tech,Noida,"GraphQL, MySQL, Next.js",1

@@ -1,0 +1,3 @@
+project_id,project_name,client_name,industry,city,country,technologies,status,project_manager
+HCL001,Cloud Infra Automation,FinTrust Corp,Banking,New York,USA,"AWS, Terraform, Python",In Progress,Amit Sinha
+HCL002,Retail Analytics Platform,TrendBuy,Retail,London,UK,"Azure, Databricks, Power BI",Planned,Pooja Reddy

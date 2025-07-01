@@ -1,0 +1,5 @@
+project_id,milestone_name,due_date
+HCL001,Setup Infrastructure,2024-06-01
+HCL001,Monitoring & Alerts,2024-07-01
+HCL002,Data Lake Setup,2024-08-01
+HCL002,Dashboard Delivery,2024-09-15

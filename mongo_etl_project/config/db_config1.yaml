@@ -1,0 +1,16 @@
+mongodb:
+  uri: "mongodb://localhost:27017"
+  database: "mongopythondb"
+  collection: "projects"
+
+mysql:
+  host: "localhost"
+  user: "root"
+  password: "Tharun@19072003"
+  database: "mongomysqldb"
+
+sqlserver:
+  server: 'DESKTOP-D933C06\SQLEXPRESS'  
+  user: "sa"
+  password: "tharun"
+  database: "mongosqldb"
