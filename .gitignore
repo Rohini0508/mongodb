@@ -1,9 +1,29 @@
-# Ignore config YAML files
-config/db_config.yaml
-config/db_config1.yaml
+# Ignore config YAML files (optional if you want to hide sensitive info)
+mongo_etl_project/config/db_config.yaml
+mongo_etl_project/config/db_config1.yaml
 
 # Ignore virtual environments
+venv/
 venv2/
+.env/
+.venv/
 
-# Ignore virtual environments
+# Ignore output folders
 output/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore data archives and logs
+*.zip
+*.tar.gz
+*.log
+
+# Ignore Jupyter checkpoints (if used)
+.ipynb_checkpoints/
+
+# Ignore VSCode and system files
+.vscode/
+.DS_Store
+Thumbs.db
